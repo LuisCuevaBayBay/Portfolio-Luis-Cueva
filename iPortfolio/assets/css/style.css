@@ -1086,3 +1086,22 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+
+/*--------------------------------------------------------------
+# Skills Section
+--------------------------------------------------------------*/
+.my-auto{
+  text-align: center;
+}
+.list-icons{
+  font-size: 2.5rem;  
+  text-align: center;
+  color: #4f4f4f;
+}
+
+.list-inline-item i:hover{
+  color: #0e2442;
+  transition: all 0.2s ease-in-out;
+}
